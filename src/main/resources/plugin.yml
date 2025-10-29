@@ -1,0 +1,5 @@
+name: Foxer
+main: redfox.hub.Core
+api: ["2.0.0"]
+version: 1.0
+author: ayd1ndemirci

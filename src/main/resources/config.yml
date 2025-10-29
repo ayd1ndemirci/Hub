@@ -1,0 +1,9 @@
+lobbies:
+  - lobby-1
+  - lobby-2
+  - lobby-3
+  - lobby-4
+
+ops:
+  mesquinn:
+    ip: 1.1.1.1

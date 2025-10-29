@@ -1,0 +1,99 @@
+{
+  "profile": {
+    "title": "Profile",
+    "view_title": "View Profile",
+    "input_placeholder": "e.g. MesquiNn",
+    "error": {
+      "empty_name": "Player name cannot be empty.",
+      "not_found": "Player not found: {name}"
+    }
+  },
+  "offline": "Offline",
+  "online": "Online",
+  "yes": "Yes",
+  "no": "No",
+  "player": "Player",
+  "unknown": "Unknown",
+  "name": "Name",
+  "status": "Status",
+  "tag": "Tag",
+  "island_level": "Island Level",
+  "level": "Level",
+  "friend_count": "Friend Count",
+  "language": "Language",
+  "first_join": "First Join",
+  "badges": "Badges",
+  "view_other_profile": "View Other Profile",
+  "change_language": "Change Language",
+  "language_selection": {
+    "title": "Language Selection",
+    "dropdown_label": "Select Language",
+    "changed": "§aLanguage successfully changed to {langName}."
+  },
+  "cosmetic": {
+    "title": "Cosmetic",
+    "toys": {
+      "title": "Toys",
+      "buttons": {
+        "teleport_bow": "Teleport Bow",
+        "elytra": "Elytra"
+      },
+      "messages": {
+        "added_to_inventory": "added to inventory."
+      }
+    },
+    "buttons": {
+      "toys": "Toys",
+      "back": "Back"
+    }
+  },
+  "games": {
+    "title": "Select Server",
+    "buttons": {
+      "skyblock": "Skyblock Beta\n{count} Players Online",
+      "lobbies": "Lobbies"
+    },
+    "messages": {
+      "redirecting_skyblock": "§8» §aYou are being redirected to Skyblock server."
+    }
+  },
+  "lobbies": {
+    "title": "Select Lobby",
+    "you_are_here": "You Are Here",
+    "invalid_selection": "§cInvalid lobby selection."
+  },
+  "event": {
+    "kick": {
+      "ip_mismatch": "§cOP Guard\nType: IP",
+      "ip_changed": "§cYou have been kicked because your IP address changed!"
+    },
+    "join": {
+      "auto_op": "§aYou were automatically OP'd because you're on the server OP list and your IP is verified."
+    },
+    "chat": {
+      "cannot_write": "§cYou cannot write in chat."
+    },
+    "command": {
+      "no_permission": "§cYou cannot use commands here."
+    },
+    "teleport": {
+      "wait": "§cPlease wait before teleporting...",
+      "done": "§aYou have teleported!"
+    },
+    "packet": {
+      "too_fast": "§cYou are acting too fast, please slow down!"
+    }
+  },
+  "transfer": {
+    "current_lobby": "§aYou are currently on the {lobbyName} server."
+  },
+  "teleport_bow": {
+    "ready": "§aReady!",
+    "waiting": "§aWaiting: {progress}"
+  },
+  "item": {
+    "cosmetic": "§r§cCosmetic",
+    "play": "§r§bPlay",
+    "profile": "§r§6Profile"
+  }
+}

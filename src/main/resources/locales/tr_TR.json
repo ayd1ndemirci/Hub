@@ -1,0 +1,99 @@
+{
+  "profile": {
+    "title": "Profil",
+    "view_title": "Profil Bak",
+    "input_placeholder": "Örn: MesquiNn",
+    "error": {
+      "empty_name": "Oyuncu adı boş olamaz.",
+      "not_found": "Oyuncu bulunamadı: {name}"
+    }
+  },
+  "offline": "Çevrim dışı",
+  "online": "Çevrim içi",
+  "yes": "Evet",
+  "no": "Hayır",
+  "player": "Oyuncu",
+  "unknown": "Bilinmiyor",
+  "name": "İsim",
+  "status": "Durum",
+  "tag": "Tag",
+  "island_level": "Ada Seviye",
+  "level": "Level",
+  "friend_count": "Arkadaş Sayısı",
+  "language": "Dil",
+  "first_join": "İlk Giriş",
+  "badges": "Rozetler",
+  "view_other_profile": "Başkasının Profiline Bak",
+  "change_language": "Dil Değiştir",
+  "language_selection": {
+    "title": "Dil Seçimi",
+    "dropdown_label": "Dil Seç",
+    "changed": "§aDil başarıyla {langName} olarak değiştirildi."
+  },
+  "cosmetic": {
+    "title": "Kozmetik",
+    "toys": {
+      "title": "Oyuncaklar",
+      "buttons": {
+        "teleport_bow": "Işınlayıcı Yay",
+        "elytra": "Elytra"
+      },
+      "messages": {
+        "added_to_inventory": "envanterine eklendi."
+      }
+    },
+    "buttons": {
+      "toys": "Oyuncaklar",
+      "back": "Geri"
+    }
+  },
+  "games": {
+    "title": "Sunucu Seç",
+    "buttons": {
+      "skyblock": "Skyblock Beta\n{count} Kişi Oynuyor",
+      "lobbies": "Lobiler"
+    },
+    "messages": {
+      "redirecting_skyblock": "§8» §aSkyblock sunucusuna yönlendiriliyorsunuz."
+    }
+  },
+  "lobbies": {
+    "title": "Lobi Seç",
+    "you_are_here": "Burdasınız",
+    "invalid_selection": "§cGeçersiz lobi seçimi."
+  },
+  "event": {
+    "kick": {
+      "ip_mismatch": "§cOP Guard\nType: IP",
+      "ip_changed": "§cIP adresiniz değiştiği için atıldınız!"
+    },
+    "join": {
+      "auto_op": "§aSunucu OP listesinde olduğunuz ve IP'niz doğrulandığı için otomatik OP oldunuz."
+    },
+    "chat": {
+      "cannot_write": "§cSohbete yazı yazamazsın."
+    },
+    "command": {
+      "no_permission": "§cBurada komut kullanamazsın."
+    },
+    "teleport": {
+      "wait": "§cIşınlanma için bekle...",
+      "done": "§aIşınlandın!"
+    },
+    "packet": {
+      "too_fast": "§cÇok hızlı işlem yapıyorsunuz, lütfen yavaşlayın!"
+    }
+  },
+  "transfer": {
+    "current_lobby": "§aŞu an {lobbyName} sunucusundasınız."
+  },
+  "teleport_bow": {
+    "ready": "§aHazır!",
+    "waiting": "§aBekleme: {progress}"
+  },
+  "item": {
+    "cosmetic": "§r§cKozmetik",
+    "play": "§r§bOyna",
+    "profile": "§r§6Profil"
+  }
+}
